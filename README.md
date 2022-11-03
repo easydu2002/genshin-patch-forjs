@@ -1,0 +1,2 @@
+[https://github.com/YuFanXing/UA-patch/blob/master/UA-patch](https://github.com/YuFanXing/UA-patch/blob/master/UA-patch)
+[https://github.com/gc-toolkit/GenshinLauncher](https://github.com/gc-toolkit/GenshinLauncher)
